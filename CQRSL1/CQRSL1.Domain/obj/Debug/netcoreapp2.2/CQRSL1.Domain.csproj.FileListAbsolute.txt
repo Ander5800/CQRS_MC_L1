@@ -1,0 +1,9 @@
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Domain\bin\Debug\netcoreapp2.2\CQRSL1.Domain.deps.json
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Domain\bin\Debug\netcoreapp2.2\CQRSL1.Domain.dll
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Domain\obj\Debug\netcoreapp2.2\CQRSL1.Domain.csprojAssemblyReference.cache
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Domain\obj\Debug\netcoreapp2.2\CQRSL1.Domain.csproj.CoreCompileInputs.cache
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Domain\obj\Debug\netcoreapp2.2\CQRSL1.Domain.AssemblyInfoInputs.cache
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Domain\obj\Debug\netcoreapp2.2\CQRSL1.Domain.AssemblyInfo.cs
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Domain\bin\Debug\netcoreapp2.2\CQRSL1.Domain.pdb
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Domain\obj\Debug\netcoreapp2.2\CQRSL1.Domain.dll
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Domain\obj\Debug\netcoreapp2.2\CQRSL1.Domain.pdb
