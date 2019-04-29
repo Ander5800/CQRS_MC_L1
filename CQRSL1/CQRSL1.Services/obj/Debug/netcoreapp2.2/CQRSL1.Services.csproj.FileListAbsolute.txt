@@ -1,0 +1,12 @@
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Services\obj\Debug\netcoreapp2.2\CQRSL1.Services.csprojAssemblyReference.cache
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Services\obj\Debug\netcoreapp2.2\CQRSL1.Services.csproj.CoreCompileInputs.cache
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Services\obj\Debug\netcoreapp2.2\CQRSL1.Services.AssemblyInfoInputs.cache
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Services\obj\Debug\netcoreapp2.2\CQRSL1.Services.AssemblyInfo.cs
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Services\bin\Debug\netcoreapp2.2\CQRSL1.Services.deps.json
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Services\bin\Debug\netcoreapp2.2\CQRSL1.Services.dll
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Services\bin\Debug\netcoreapp2.2\CQRSL1.Services.pdb
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Services\bin\Debug\netcoreapp2.2\CQRSL1.Domain.dll
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Services\bin\Debug\netcoreapp2.2\CQRSL1.Domain.pdb
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Services\obj\Debug\netcoreapp2.2\CQRSL1.Services.csproj.CopyComplete
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Services\obj\Debug\netcoreapp2.2\CQRSL1.Services.dll
+D:\Core.NET\mega_curso\CQRS_MC_L1\CQRSL1\CQRSL1.Services\obj\Debug\netcoreapp2.2\CQRSL1.Services.pdb
